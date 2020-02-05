@@ -1,6 +1,5 @@
 //
 //  RetryPolicy.hpp
-//  TelegramUpdater
 //
 //  Created by Mikhail Krasnorutsky on 22.11.2018.
 //
